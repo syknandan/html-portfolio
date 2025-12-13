@@ -25,8 +25,6 @@ images/         - Screenshots folder
 
 ## 💻 Technologies
 - HTML5 (semantic structure)
-- CSS3 (styling & responsiveness)
-- JavaScript (form handling)
 
 ## 🧪 Testing
 - ✅ Works on Chrome, Firefox, Safari, Edge
@@ -36,8 +34,6 @@ images/         - Screenshots folder
 ## 🎯 Learning Outcomes
 Demonstrates mastery of:
 - Semantic HTML structure
-- CSS styling & layouts
-- Basic JavaScript interactivity
 - Responsive design principles
 
 ## 👨‍💻 Developer
